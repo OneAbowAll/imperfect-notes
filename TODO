@@ -1,0 +1,17 @@
+-Sistemare vec2 come tipo, non ha molto senso usare number[]; [DONE]
+
+-Interfaccia di Debug:
+    -Lista forme nel Canvas;
+    -Processo per la creazione di una linea:
+        1) Input points: con dei cerchietti rossi
+        2) Smoothed points: con una linea blue
+        3) Final polygon: con la linea nera
+    ;
+;
+
+-Interfaccia in generale:
+    -Settings della penna / stroke;
+
+-Trova modo veloce per capire quale linea sto cercando di cancellare;
+-Cancella punti specifici linea;
+-Rendi cancella universale;
